@@ -20,7 +20,7 @@
     "brand": "node tools/brand/brand.mjs"
   },
   "devDependencies": {
-    "@effect/tsgo": "0.67.5",
+    "@effect/tsgo": "0.69.0",
     "@oxlint/plugins": "1.92.0",
     "@resvg/resvg-js": "2.6.2",
     "fallow": "^3.41.0",
