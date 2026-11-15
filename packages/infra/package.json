@@ -11,9 +11,9 @@
     "deploy:maps": "alchemy deploy maps.run.ts --stage archive --yes"
   },
   "devDependencies": {
-    "@alchemy.run/cloudflare": "2.0.0-beta.85",
+    "@alchemy.run/cloudflare": "2.0.0-beta.87",
     "@effect/platform-node": "4.1.2",
-    "alchemy": "2.0.0-beta.85",
+    "alchemy": "2.0.0-beta.87",
     "effect": "catalog:"
   }
 }
